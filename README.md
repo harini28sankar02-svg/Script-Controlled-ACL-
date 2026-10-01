@@ -8,3 +8,4 @@ task3-2 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-A
 task4-1 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/358ecea6d2b7956036322ab59e26196f1d8cfa09/task4-1.png)
 task4-2 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/522e3ef57586c8c4ae050621c84189325b7e2efc/task4-2.png)
 task4 code https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/5d67e7b45c1bcceb988fb7b8818b0419f6948842/task4/read_acl.js
+task5 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/bb7a6e7cf4948322fef3e42929503000dbd89f15/task5.png)
