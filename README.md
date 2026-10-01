@@ -10,3 +10,4 @@ task4-2 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-A
 task4 code https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/5d67e7b45c1bcceb988fb7b8818b0419f6948842/task4/read_acl.js
 
 task5 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/bb7a6e7cf4948322fef3e42929503000dbd89f15/task5.png)
+task6 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/3b49c6372784b5faf2ef2eaf2d3210685ac4981e/task6.png)
