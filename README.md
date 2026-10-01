@@ -15,3 +15,4 @@ task4 code https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/5
 
 task5 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/bb7a6e7cf4948322fef3e42929503000dbd89f15/task5.png)
 task6 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/3b49c6372784b5faf2ef2eaf2d3210685ac4981e/task6.png)
+task7 ![image alt](https://github.com/harini28sankar02-svg/Script-Controlled-ACL-/blob/56a66c306bf9cc1d0ea09ea4bbf1d30f2929f7a0/task7.png)
